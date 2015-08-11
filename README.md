@@ -96,7 +96,7 @@
 > http://robbinfan.com/
 > `知名程序员的博客。`
 
-#### 赵杰的博客
+#### 赵劼的博客
 > http://blog.zhaojie.me/  
 > `知名程序员，人称赵姐夫。`
 

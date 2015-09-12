@@ -42,13 +42,17 @@
 > http://news.dbanotes.net/newest  
 > `国内社区，模仿hackernews，主要是业界技术类新闻。`
 
-#### quora 
-> http://www.quora.com/  
-> `国外社区，主要是八卦扯淡。`
+#### 稀土掘金 
+> http://gold.xitu.io/  
+> `国内社区，主要是技术文章分享。`
 
 #### segmentfault 
 > http://segmentfault.com/  
-> `国外社区，主要是问答。`
+> `国内社区，主要是问答。`
+
+#### quora 
+> http://www.quora.com/  
+> `国外社区，主要是八卦扯淡。`
 
 #### stackoverflow 
 > http://stackoverflow.com/  

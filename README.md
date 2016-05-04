@@ -118,13 +118,13 @@
 
 ## 学术搜索
 #### Google Scholar
-> https://scholar.google.com/
-> 'google学术搜索，对于计算机领域，可以搜索到很多最前沿的资料。可以直接搜索到pdf，以及其引用次数，可以收藏论文等。'
+> https://scholar.google.com/  
+> `google学术搜索，对于计算机领域，可以搜索到很多最前沿的资料。可以直接搜索到pdf，以及其引用次数，可以收藏论文等。`
 
 #### Microsoft Academic
-> https://scholar.google.com/
-> '微软学术搜索，对于计算机领域，可以搜索到很多最前沿的资料。可以直接搜索到pdf，以及其引用次数，可以收藏论文等。并且能查看引用链关系图。'
+> https://scholar.google.com/  
+> `微软学术搜索，对于计算机领域，可以搜索到很多最前沿的资料。可以直接搜索到pdf，以及其引用次数，可以收藏论文等。并且能查看引用链关系图。`
 
 #### arxiv.org
-> http://arxiv.org/
-> '计算机领域最新论文基本都会发表在这个网站上，并且能直接获取pdf。'
+> http://arxiv.org/  
+> `计算机领域最新论文基本都会发表在这个网站上，并且能直接获取pdf。`

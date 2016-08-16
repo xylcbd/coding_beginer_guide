@@ -117,7 +117,7 @@
 > `刘未鹏，c++大牛，分享关于编程的知识。以及他的推荐（http://mindhacks.cn/friend-links/）`
 
 #### 廖雪峰的博客
-> http://www.liaoxuefeng.com/
+> http://www.liaoxuefeng.com/  
 > `在这个网站上，廖雪峰发布了不少高质量的系列教程，git教程、python教程、javascript教程等`
 
 ## 学术搜索

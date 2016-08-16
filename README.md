@@ -1,5 +1,13 @@
 ## 在线学习类网站
 
+#### Coursera
+> https://www.coursera.org/  
+> `知名华人机器学习大牛Andrew Ng开设的面向全球的mooc站点`
+
+#### 学堂在线
+> https://www.xuetangx.com/  
+> `清华大学开设的mooc站点，主要与国内高校合作，内容以中文课程为主。`
+
 #### 计蒜客 
 > http://www.jisuanke.com/  
 > `包括在线教程，在线IDE，覆盖常见的编程语言的学习。`
@@ -97,7 +105,7 @@
 > `阮一峰，知名程序员。分享关于编程、算法等方面的知识。 `
 
 #### robin的自言自语
-> http://robbinfan.com/
+> http://robbinfan.com/  
 > `知名程序员的博客。`
 
 #### 赵劼的博客
@@ -105,7 +113,7 @@
 > `知名程序员，人称赵姐夫。`
 
 #### 结构之法，算法之道
-> http://blog.csdn.net/v_JULY_v
+> http://blog.csdn.net/v_JULY_v  
 > `July，分享关于各种类型的算法。`
 
 #### 池建强的博客
